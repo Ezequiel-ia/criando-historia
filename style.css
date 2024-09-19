@@ -1,0 +1,24 @@
+body {
+    background-color: #172d51;
+    color: rgb(33, 240, 240);
+    font-family: "Yusei Magic", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: rgb(145, 77, 209);
+    color: whitesmoke;
+    font-family: "Yusei Magic", sans-serif;
+}
+
+ .passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
